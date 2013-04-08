@@ -1,4 +1,4 @@
-calculator
+Calculator
 ==========
 
-For gotealeaf
+For gotealeaf class.  I added the modulo operator because... I felt like it, mostly.
